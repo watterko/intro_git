@@ -3,3 +3,4 @@ Practice basic Git workflow
 .git add
 .git commit
 .git remove
+.git status
